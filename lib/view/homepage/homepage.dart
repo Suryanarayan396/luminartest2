@@ -37,7 +37,6 @@ class Homepage extends StatelessWidget {
                           ));
                     },
                     child: Container(
-                      height: 110,
                       child: ListTile(
                         trailing: Container(
                           decoration: BoxDecoration(
